@@ -1,0 +1,38 @@
+body{
+	margin:0;
+	padding:0;
+	background: url(../img/05c8c86853787.56028292dc557.jpg);
+}
+#da{
+	width: 760px;
+	margin:150px auto;
+}
+.xiao{
+	width: 75px;
+    height: 75px;
+    background: #f35a4e;
+    margin: 0 2px 2px 0;
+    float: left;
+    box-shadow: 0px -4px 4px #a23c26 inset;
+    border-radius:50%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-family: 'Ball常规';
+}
+.clear{
+	clear:both;
+}
+#time{
+	width: 100px;
+    height: 50px;
+    background: #1b5b76;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 600px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 1em;
+}
